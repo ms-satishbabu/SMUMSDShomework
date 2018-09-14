@@ -1,0 +1,25 @@
+---
+title: "6306_MSDS_Unit3_Homework_SatishMylapore"
+author: "Satish Mylapore"
+date: "September 14, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Questions
+
+### Question 1
+**GitHub Cloning (20 points)**: Using Git, clone the following GitHub repository to your local machine: https://github.com/caesar0301/awesome-public-datasets.  In RMarkdown, please show the code (commented out, as it's not R syntax) that you used to create a new directory, navigate to the appropriate directory, and clone the repository to it.  One Git command per line, please.
+
+Using Git Bash to clone the link [https://github.com/caesar0301/awesome-public-datasets]
+
+Git Link taken from Git Hub: [https://github.com/awesomedata/awesome-public-datasets.git]
+
+![Alt text](https://github.com/ms-satishbabu/SMUMSDShomework/blob/master/Unit3Homework/Q1a1.png)
+
+Folders Created at local:
+
+![Alt text](https://github.com/ms-satishbabu/SMUMSDShomework/blob/master/Unit3Homework/Q1a1_2.png)
+
